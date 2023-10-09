@@ -1,0 +1,15 @@
+body {
+  /*background-color: #09090a;*/
+}
+main {
+  text-align: left;
+}
+p {
+}
+.bg-photo {
+  text-align: right;
+  position: relative;
+}
+footer {
+  display: inline-block;
+}
